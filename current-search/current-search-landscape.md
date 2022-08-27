@@ -1,3 +1,7 @@
+---
+title: The Current Search Landscape
+---
+
 # The Current Search Landscape
 
 ## Introduction
