@@ -65,11 +65,16 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
+          /*{
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Something',
+          },*/
+          {
+            to: 'current-search/current-search-landscape',
+            label: 'Current Search Landscape',
+            position: 'left'
           },
           {
             href: 'https://github.com/next-search/',
