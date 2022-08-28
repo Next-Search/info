@@ -42,7 +42,7 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 
 ## The Contenders
 
-| Search Engine | Alexa Rank | Verified |
+| Search Engine | SimilarWeb  Rank | Verified |
 | :--- | :--- | :--- |
 | [Microsoft Bing](https://bing.com/) | [\#30](https://www.similarweb.com/website/bing.com/#overview) | 08/2022 |
 | [DuckDuckGo](https://duckduckgo.com/) | [\#39](https://www.similarweb.com/website/duckduckgo.com/#overview) | 08/2022 |
@@ -53,32 +53,38 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 
 | Search Engine | Alexa Rank | Verified |
 | :--- | :--- | :--- |
-| [Yahoo](https://www.yahoo.com/) | [\#11](https://www.alexa.com/siteinfo/yahoo.com) | 12/2019 |
-| [Ask](https://www.ask.com/) | [\#183](https://www.alexa.com/siteinfo/ask.com) | 12/2019 |
-| [Ecosia](https://www.ecosia.org/) \(Germany\) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 |
-| [Startpage](https://www.startpage.com/) \(Netherlands\) | [\#1574](https://www.alexa.com/siteinfo/startpage.com) | 12/2019 |
-| [SearchEncrypt](https://www.searchencrypt.com/) | [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com) | 12/2019 |
-| [Qwant](https://qwant.com) \(France\) | [\#5466](https://www.alexa.com/siteinfo/qwant.com) | 12/2019 |
-| [Lycos](https://lycos.com/) | [\#17420](https://www.alexa.com/siteinfo/lycos.com) | 12/2019 |
-| [ZapMeta](https://zapmeta.com/) \(Netherlands\) | [\#20816](https://www.alexa.com/siteinfo/zapmeta.com) | 12/2019 |
-| [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#26009](https://www.alexa.com/siteinfo/entireweb.com) | 12/2019 |
-| [Dogpile](https://dogpile.com/) | [\#33400](https://www.alexa.com/siteinfo/dogpile.com) | 12/2019 |
-| [InfoSpace](https://infospace.com/) | [\#42620](https://www.alexa.com/siteinfo/infospace.com) | 12/2019 |
-| [Exalead](http://www.exalead.com/search/) \(France\) | [\#57288](https://www.alexa.com/siteinfo/exalead.com) | 12/2019 |
-| [Gigablast](https://gigablast.com/) | [\#61545](https://www.alexa.com/siteinfo/gigablast.com) | 12/2019 |
-| [Metager](https://metager.org/) \(German\) | [\#86032](https://www.alexa.com/siteinfo/metager.de) | 12/2019 |
-| [ExactSeek](https://exactseek.com/) | [\#88596](https://www.alexa.com/siteinfo/exactseek.com) | 12/2019 |
-| [Yippy](https://yippy.com/) | [\#114921](https://www.alexa.com/siteinfo/yippy.com) | 12/2019 |
-| [MillionShort](https://millionshort.com/) | [\#101750](https://www.alexa.com/siteinfo/millionshort.com) | 12/2019 |
-| [Mojeek](https://mojeek.com/) \(UK\) | [\#189992](https://www.alexa.com/siteinfo/mojeek.com) | 12/2019 |
-| [Lilo](https://www.lilo.org/en/) \(France\) | [\#7418](https://www.alexa.com/siteinfo/lilo.org) | 12/2019 |
+| [Yahoo](https://www.yahoo.com/) | [\#13](https://www.similarweb.com/website/yahoo.com/#overview) | 08/2022 |
+| [Ask](https://www.ask.com/) | [\#1881](https://www.similarweb.com/website/ask.com/#overview) | 08/2022 |
+| [Ecosia](https://www.ecosia.org/) \(Germany\) | [\#275](https://www.similarweb.com/website/ecosia.org/#overview) | 08/2022 |
+| [Startpage](https://www.startpage.com/) \(Netherlands\) | [\#928](https://www.similarweb.com/website/startpage.com/#overview) | 08/2022 |
+| [SearchEncrypt](https://www.searchencrypt.com/) | [\#25765](https://www.similarweb.com/website/searchencrypt.com/#overview) | 08/2022 |
+| [Qwant](https://qwant.com) \(France\) | [\#1639](https://www.similarweb.com/website/qwant.com/#overview) | 08/2022 |
+| [Lycos](https://lycos.com/) | [\#68274](https://www.similarweb.com/website/lycos.com/#overview) | 08/2022 |
+| [ZapMeta](https://zapmeta.com/) \(Netherlands\) | [\#69575](https://www.similarweb.com/website/zapmeta.com/#overview) | 08/2022 |
+| [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#154884](https://www.similarweb.com/website/entireweb.com/#overview) | 08/2022 |
+| [Dogpile](https://dogpile.com/) | [\#20064](https://www.similarweb.com/website/dogpile.com/#overview) | 08/2022 |
+| [InfoSpace](https://infospace.com/) | [\#669032](https://www.similarweb.com/website/infospace.com/#overview) | 08/2022 |
+| [Exalead](http://www.exalead.com/search/) \(France\) | [\#681857](https://www.similarweb.com/website/exalead.com/#overview) | 08/2022 |
+| [Gigablast](https://gigablast.com/) | [\#304971](https://www.similarweb.com/website/gigablast.com/#overview) | 08/2022 |
+| [Metager](https://metager.org/) \(German\) | [\#71236](https://www.similarweb.com/website/metager.org/#overview) | 08/2022 |
+| [ExactSeek](https://exactseek.com/) | [\#592804](https://www.similarweb.com/website/exactseek.com/) | 08/2022 |
+| [Yippy](https://yippy.com/) | [\#429402](https://www.similarweb.com/website/yippy.com/) | 08/2022 |
+| [MillionShort](https://millionshort.com/) | [\#346868](https://www.similarweb.com/website/millionshort.com/) | 08/2022 |
+| [Mojeek](https://mojeek.com/) \(UK\) | [\#74382](https://www.similarweb.com/website/mojeek.com/#overview) | 08/2022|
+| [Lilo](https://www.lilo.org/en/) \(France\) | [\#16094](https://www.similarweb.com/website/lilo.org/#overview) | 08/2022 |
+| [Presearch](https://www.presearch.com/) | [\#6144](https://www.similarweb.com/website/presearch.com/#overview) | 08/2022 |
+| [Brave Search](https://search.brave.com/) | [\#385](https://www.similarweb.com/website/brave.com/#overview) | 08/2022 |
+| [You](https://www.you.com/) | [\#22663](https://www.similarweb.com/website/you.com/#overview) | 08/2022 |
+| [Yep](https://www.yep.com/) | [\#287671](https://www.similarweb.com/website/yep.com/#overview) | 08/2022 |
+
 
 ## Third Tier Competitors
 
-* [eTools](https://etools.ch/) \(Switzerland, Alexa Rank: [\#474634](https://www.alexa.com/siteinfo/etools.ch), 12/2019\)
-* [Active Search Results](https://activesearchresults.com/) \(Alexa Rank: [\#54681](https://www.alexa.com/siteinfo/activesearchresults.com), 12/2019\)
-* [Searx](https://searx.me/) \(Hungary, Alexa Rank: [\#176757](https://www.alexa.com/siteinfo/searx.me), 12/2019\)
-* [Whaleslide](https://whaleslide.com/) \(UK, Alexa Rank: 8m+, 12/2019\)
+| [eTools](https://etools.ch/) \(Switzerland) | [\#279881](https://www.similarweb.com/website/etools.ch/) | 08/2022 |
+| [Active Search Results](https://activesearchresults.com/) | [\#731634](https://www.similarweb.com/website/activesearchresults.com/) | 08/2022 |
+| [Searx](https://searx.me/) \(Hungary) | [\#488888](https://www.similarweb.com/website/searx.me/#overview) | 08/2022 |
+| [Whaleslide](https://whaleslide.com/) \(UK) | [\#6904601](https://www.similarweb.com/website/whaleslide.com/) | 08/2022
+
 
 ## The Rest
 
