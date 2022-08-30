@@ -42,7 +42,7 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 
 ## The Contenders
 
-| Search Engine | SimilarWeb  Rank | Verified |
+| Search Engine | SimilarWeb Rank | Verified |
 | :--- | :--- | :--- |
 | [Microsoft Bing](https://bing.com/) | [\#30](https://www.similarweb.com/website/bing.com/#overview) | 08/2022 |
 | [DuckDuckGo](https://duckduckgo.com/) | [\#39](https://www.similarweb.com/website/duckduckgo.com/#overview) | 08/2022 |
@@ -51,7 +51,7 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 
 ## Second Tier Competitors
 
-| Search Engine | Alexa Rank | Verified |
+| Search Engine | SimilarWeb Rank | Verified |
 | :--- | :--- | :--- |
 | [Yahoo](https://www.yahoo.com/) | [\#13](https://www.similarweb.com/website/yahoo.com/#overview) | 08/2022 |
 | [Ask](https://www.ask.com/) | [\#1881](https://www.similarweb.com/website/ask.com/#overview) | 08/2022 |

@@ -8,6 +8,7 @@ On this site we'll dive deep into what this next generation search engine should
 
 :::danger Think About It
 "The world changes according to the way people see it, and if you alter, even by a millimeter, the way a person looks or people look at reality, then you can change it." - [James Baldwin, New York Times, Sept. 23, 1979](https://www.nytimes.com/1979/09/23/archives/james-baldwin-writing-and-talking-baldwin-baldwin-authors-query.html).
+:::
 
 Here are a few ways we believe this engine can provide a better future for humanity:
 
