@@ -80,10 +80,12 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 
 ## Third Tier Competitors
 
+| Search Engine | SimilarWeb Rank | Verified |
+| :--- | :--- | :--- |
 | [eTools](https://etools.ch/) \(Switzerland) | [\#279881](https://www.similarweb.com/website/etools.ch/) | 08/2022 |
 | [Active Search Results](https://activesearchresults.com/) | [\#731634](https://www.similarweb.com/website/activesearchresults.com/) | 08/2022 |
 | [Searx](https://searx.me/) \(Hungary) | [\#488888](https://www.similarweb.com/website/searx.me/#overview) | 08/2022 |
-| [Whaleslide](https://whaleslide.com/) \(UK) | [\#6904601](https://www.similarweb.com/website/whaleslide.com/) | 08/2022
+| [Whaleslide](https://whaleslide.com/) \(UK) | [\#6904601](https://www.similarweb.com/website/whaleslide.com/) | 08/2022 |
 
 
 ## The Rest
