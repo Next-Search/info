@@ -71,6 +71,11 @@ const config = {
             position: 'left',
             label: 'Current Search Landscape',
           },
+          {
+            href: 'https://github.com/Next-Search/websearch-proposal/blob/master/SUMMARY.md',
+            label: '2021 Proposal',
+            position: 'left'
+          },
           /*{
             to: 'current-search/current-search-landscape',
             label: 'Current Search Landscape',
