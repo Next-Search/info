@@ -67,8 +67,14 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'current-search/current-search-landscape',
+            docId: 'web-search-is-primitive',
             position: 'left',
+            label: 'Current Proposal'
+          },
+          {
+            type: 'doc',
+            docId: 'current-search/current-search-landscape',
+            position: 'right',
             label: 'Current Search Landscape',
           },
           {
@@ -76,11 +82,6 @@ const config = {
             label: '2021 Proposal',
             position: 'left'
           },
-          /*{
-            to: 'current-search/current-search-landscape',
-            label: 'Current Search Landscape',
-            position: 'left'
-          },*/
           {
             href: 'https://github.com/next-search/',
             label: 'GitHub',
