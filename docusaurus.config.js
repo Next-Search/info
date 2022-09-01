@@ -67,13 +67,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'introduction/01-web-search-is-primitive',
+            docId: 'introduction/web-search-is-primitive',
             position: 'left',
             label: 'Current Proposal'
           },
           {
             type: 'doc',
-            docId: 'appendixes/30-current-search-landscape',
+            docId: 'appendixes/current-search-landscape',
             position: 'right',
             label: 'Current Search Landscape',
           },
