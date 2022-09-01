@@ -25,7 +25,7 @@ Our point is: this isn't just YASE (yet another search engine) seeking to derive
 
 We have a ton of work to do on updating our proposal for this next generation search engine. In the meantime feel free to [review our 2021 draft](https://github.com/Next-Search/websearch-proposal/blob/master/SUMMARY.md).
 
-Want to know what else is out there in the world of search? See our document on the [current search landscape](./docs/current-search/current-search-landscape).
+Want to know what else is out there in the world of search? See our document on the [current search landscape](./docs/appendixes/current-search-landscape).
 
 ## Discuss and Contribute?
 - Twitter: [@nextwebsearch](https://twitter.com/nextwebsearch)

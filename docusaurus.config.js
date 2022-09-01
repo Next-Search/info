@@ -67,13 +67,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'web-search-is-primitive',
+            docId: 'introduction/01-web-search-is-primitive',
             position: 'left',
             label: 'Current Proposal'
           },
           {
             type: 'doc',
-            docId: 'current-search/current-search-landscape',
+            docId: 'appendixes/30-current-search-landscape',
             position: 'right',
             label: 'Current Search Landscape',
           },
@@ -93,22 +93,8 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'More',
             items: [
-              /*
-              {
-                label: 'Blog',
-                to: '/blog',
-              },*/
               {
                 label: 'GitHub',
                 href: 'https://github.com/next-search',

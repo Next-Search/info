@@ -47,8 +47,6 @@ The results returned by search engines have improved significantly over prior en
 
 We could go on _ad nauseum_ with examples of poor quality search results but we don't want to bore you.
 
-If you need more examples, [reach out to us](https://nextsearch.gitbook.io/introduction/request-for-comments.md).
-
 ## For Further Consideration
 
 * Keselman A, Arnott Smith C, Murcko AC, Kaufman DR. [Evaluating the Quality of Health Information in a Changing Digital Ecosystem](https://www.jmir.org/2019/2/e11129). Journal of Medical Internet Research 2019;21\(2\):e11129. DOI: 10.2196/11129.
