@@ -6,9 +6,9 @@ Google owns the vast majority of the web search market. When a single company do
   * Even if a company is pushing forward with innovation the lack of competitors using innovative methods to improve search may result in a myopic focus on micro gains within existing technologies.
 * Inferior Customer Service - Since there is no alternative, customers are forced to work with the company on it's terms.
 
-{% hint style="info" %}
+:::note
 We are aware of several robust competitors to Google including Bing and DuckDuckGo. We believe they are doing great work BUT that they are competing with Google within it's own paradigm and that this will be ultimately unsuccessful. Thus we still see a space for other competitors like us.
-{% endhint %}
+:::
 
 ## Further Resources
 

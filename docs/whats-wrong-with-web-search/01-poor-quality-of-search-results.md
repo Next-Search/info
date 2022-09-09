@@ -6,20 +6,20 @@ The results returned by search engines have improved significantly over prior en
 
 **Query**: _History of Search Engines_
 
-**Results**: Notice the results that are outdated, poorly presented, have duplicate content, or are covering SEO rather than search engines properly.
+**Results**: Notice the number of results that are outdated, poorly presented, have duplicate content, or are covering SEO rather than search engines properly.
 
 ## Query: "Best {Product/Service}"
 
 **Query**: _Best {Product/Service}_
 
-* Choose whatever product or service you like - refrigerator, laptop, bed, headphones, etc.
+* Choose whatever product or service you like, e.g. a refrigerator, laptop, bed, headphones, etc.
 
 **Results**:
 
 * Most reviews come from "big entity" sites - the indie/personal web is missing.
 * It is easy to end up reading the same/similar review on multiple sites before finding unique/helpful content.
 * Some sites are no-name brands that may have questionable practices \(e.g., not actually testing products that are reviewed, reviews that drive the viewer to the highest commission generating product\).
-* Oftentimes the length of the articles and the details shared are of interest to search engines but unnecessarily verbose for humans.
+* Oftentimes the length of the articles and the details shared are of interest to search engines (e.g. rank well) but unnecessarily verbose for humans.
 
 ## Query: "CNN" or "Fox News" or "{Organization Name}"
 
@@ -36,9 +36,11 @@ The results returned by search engines have improved significantly over prior en
 
 **Query**: {Any Medical Topic}
 
+* For example, try diabetes, depression, cancer, or cold sore
+
 **Results**: Medical topics, oftentimes of critical importance to the searcher, return notoriously poor results. These results suffer from information that is:
 
-* Incorrect - Oftentimes sincere, this information is untested and sometimes dangerous.
+* Incorrect - Oftentimes sincere, this information is untested and can be dangerous.
 * Incomplete - Does not provide enough information for an individual to take informed action.
 * Redundant - A number of larger medical sites provide primarily redundant information regarding the cause, diagnosis, treatment, prospects, etc.
 * Commercial Information - Treatments of questionable value are marketed to individuals at high costs.

@@ -16,7 +16,7 @@ We believe individuals should be able to:
 4. Reorganize search results to reflect the value the results hold for the individual user.
 5. Add specific sites to their personal list of preferred results for queries.
 6. Choose whether they want the results to include listings they have viewed previously or whether the results should only contain "new to them" results.
-7. Assign ranking values to the results of others - e.g., if johndoe publicly shares their search data on _Phoebe_ another individual \(e.g. janedoe\) should be able to "link to" \(without needing to grant trust\) that johndoe's data and have their results altered based on this johndoe's rankings.
+7. Assign ranking values to the results of others - e.g., if johndoe publicly shares their search data on _Phoebe_ another individual \(e.g. janedoe\) should be able to "link to" \(without needing to grant trust\) johndoe's data and have their results altered based on this johndoe's rankings.
 8. The ability to add custom tags to organize search results for future retrieval. For example, someone might find an article on Mongo they find particularly useful. The article may also provide useful information on React, asynchronous JS, and WebAssembly. They may choose to tag this result with any/all of those topics. In addition, they might tag it with more personal terms such as "best-read" or "recommend-this" or "for-beginners" etc.
 
 What other advanced functionality would you like to see?

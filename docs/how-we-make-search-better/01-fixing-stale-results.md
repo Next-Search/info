@@ -16,19 +16,19 @@ Individuals and organizations will be able to submit sites to the engine for ind
 
 * **Monetary Incentive** - Users who discover new sites of high value will receive a portion of _Phoebe's_ revenue associated with that site.
 
-{% hint style="info" %}
+:::note
 [Quora's partner program](https://www.quora.com/partners) is somewhat similar to what we are envisioning here, although we believe Quora's particular implementation is flawed and causes an increase in spammy, duplicate, and useless questions on the service.
-{% endhint %}
+:::
 
 * **Authority Incentive** - The discovery of valuable sites is one way to increase one's "real life" authority on a topic. If people regularly see you providing high quality results on a topic they will look to you as an authority on the topic.
 
-{% hint style="info" %}
+:::info
 This is similar to how authors develop authority over time. At some point one can safely say, "I recommend books by \_\_\_\_\_." Without needing to qualify that some particular work is of poor quality.
-{% endhint %}
+:::
 
 * **Discovery Incentive** - Everyone loves discovering and sharing something valuable with others, part of human culture - and internet culture in particular - is the creation and sharing of valuable content.
 
-{% hint style="info" %}
-We understand others have tried this with search and failed. We believe we can learn from those failures and that there are great examples of successful discovery oriented businesses right, e.g. [Reddit](https://reddit.com/) and [StackOverflow](https://stackoverflow.com/).
-{% endhint %}
+:::info
+We understand others have tried this with search and failed. We believe we can learn from those failures and that there are great examples of successful discovery oriented businesses doing it right, e.g. [Reddit](https://reddit.com/) and [StackOverflow](https://stackoverflow.com/).
+:::
 
