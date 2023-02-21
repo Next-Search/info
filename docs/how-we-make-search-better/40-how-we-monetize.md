@@ -4,7 +4,7 @@ _Phoebe_ will cost money to implement, maintain, and scale. How will _Phoebe_ mo
 
 ### Attention-Based Revenue
 
-That is, we are interested in the revenues available through the [Basic Attention Token](https://basicattentiontoken.org/) \(BAT\), [Coil](https://coil.com), and similar services. We believe this means of monetization will be rapidly expanding in the next few years as advertising revenues decline.
+That is, we are interested in the revenues available through the [Basic Attention Token](https://basicattentiontoken.org/) \(BAT\) and similar services. We believe this means of monetization will be rapidly expanding in the next few years as advertising revenues decline.
 
 ### Site Submissions
 
@@ -25,12 +25,3 @@ One of the current limitations of search engines is their inability to handle ex
 :::info
 Researchers could use the openly available data to perform similar queries but the querying service provided by _Phoebe_ would not require the sort of advanced data analysis expertise nor software that is required to perform the query using currently available open data. We believe we can offer an affordable and friendly querying system which individuals will utilize for its simplicitly and productivity.
 :::
-
-### Ads?
-
-We could also look at using privacy respecting ads on the site itself, we would like to avoid this avenue if at all possible \(and we believe it is possible\) to ensure that user's have complete confidence that the results they are seeing are natural and not paid placements.
-
-:::info
-If we had to implement such ad placements we would ensure that they were clearly/markedly offset from natural results so that there could be no confusion regarding which results were natural and which paid.
-:::
-

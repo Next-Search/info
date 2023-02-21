@@ -9,7 +9,7 @@ If you want the benefits that come with having your queries saved, you'll be abl
 * Only on your local machine
 * On our servers \(no charge\)
 * On a third party storage service \(Google Drive, Microsoft OneDrive, Dropbox\)
-* On a self-hosted/distributed solution \(perhaps a [SOLID Pod](https://solid.inrupt.com/), [Blockstack's Gaia](https://github.com/blockstack/gaia), [Filecoin](https://filecoin.io/) or your own personal NAS\).
+* On a self-hosted/distributed solution \(perhaps a [SOLID Pod](https://solid.inrupt.com/), [Filecoin](https://filecoin.io/), or your own personal NAS\).
 
 :::info
 If you are interested in the technical side of things check out [unhosted web apps](https://unhosted.org/) and [remoteStorage](https://remotestorage.io/).
