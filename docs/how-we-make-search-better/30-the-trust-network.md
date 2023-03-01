@@ -66,11 +66,3 @@ This doesn't make us impervious to manipulation but it will make manipulation mu
 
 It is likely that malicious activity will still occur through account compromises, but using the trust network we should be able to quickly isolate the impact of such manipulation and \(hopefully\) restore account access to the appropriate individual. That is, when a highly trusted user begins performing or being linked to negative behavior we can lockdown the account temporarily and work with the account owner to restore secure access to their account.
 
-:::info
-We want to acknowledge our significant indebtedness to the marvelous innovations in automatic trust calculations pioneered by [StackOverflow](https://stackoverflow.com/) and [Discourse](https://www.discourse.org/).
-
-Unfortunately, trusting someone to be correct is not the same as trusting someone to be kind. StackOverflow has published several [articles regarding making a kinder environment](https://stackoverflow.blog/?s=welcome+wagon). See also [here](https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/), [here](https://stackoverflow.blog/2019/03/28/the-next-ceo-of-stack-overflow/), [here](https://stackoverflow.blog/2020/04/09/the-unfriendly-robot-automatically-flagging-unwelcoming-comments/), and [here](https://stackoverflow.blog/2019/10/10/iterating-on-inclusion/).
-:::
-
-
-
